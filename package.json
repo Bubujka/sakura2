@@ -1,0 +1,17 @@
+{
+  "name": "sakura2",
+  "version": "1.0.0",
+  "description": "Node.js application for managing multiple php websites from git repositories O_o",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksej Kamynin <zendzirou@gmail.com> (http://bubujka.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3"
+  }
+}

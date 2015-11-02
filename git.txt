@@ -1,0 +1,6 @@
+git clone --mirror $url
+git fetch -p origin
+git archive --format=tar --prefix=www/ $branch > site.tar
+git branch | sed 's/^[* ]*//'
+git --git-dir=demo.git/ branch
+
