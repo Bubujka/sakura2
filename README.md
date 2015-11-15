@@ -8,3 +8,12 @@ Node.js application for managing multiple php websites from git repositories O_o
 # apt-get update
 # apt-get install apache2 nodejs npm git  php5 libapache2-mod-php5 php5-mcrypt
 ```
+
+# Todo
+
+- checkout all branches
+- symlink branches
+- format website name https://www.npmjs.com/package/slug
+- apache config
+
+
